@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: procurement-transfer
+Version: 1.0.0
+Summary: Traceable procurement knowledge, question generation and split audit
+Requires-Python: >=3.10
+Requires-Dist: PyYAML<7,>=6.0
+Requires-Dist: pypdf<7,>=4.0
+Requires-Dist: jsonschema<5,>=4.18

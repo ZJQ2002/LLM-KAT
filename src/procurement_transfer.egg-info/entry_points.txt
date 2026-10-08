@@ -1,0 +1,2 @@
+[console_scripts]
+procurement-transfer = procurement_transfer.cli:main
